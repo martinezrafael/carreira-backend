@@ -20,3 +20,7 @@ console.log('Minha idade é', idade2); // isso aqui vai retornar 30, pois a vari
 const idade3 = 40;
 
 console.log('Minha idade é', idade3); // isso aqui vai retornar 40, pois a variavel idade3 foi declarada antes
+
+// Temporal dead zone (TDZ) é o período entre o início do bloco e a declaração da variável, onde a variável não pode ser acessada. Isso se aplica a variáveis declaradas com let e const.
+
+// Melhores praticas de programação recomendam declarar variáveis no início do bloco de código para evitar problemas com hoisting e TDZ.
