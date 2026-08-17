@@ -50,3 +50,8 @@ martinezrafael@martinezrafael-pc:~/dev/study/alura/carreira-backend-nodejs/code/
 
 8. Usamos o process.argv para montar um array com os conteudos retornados no terminal e pegamos o item da 2 posição que é passado junto a execução do arquivo `index.js`
 9. criamos uma função para contar as palavras, a função vai se chamar `verificaPalavrasDuplicadas`.
+
+
+
+## Identificando tipos de erros
+
